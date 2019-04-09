@@ -1,0 +1,53 @@
+var friends = [
+    {
+        "name":"Sam",
+        "photo":"https://ichef.bbci.co.uk/news/660/cpsprodpb/DED5/production/_104154075_gettyimages-154948449.jpg",
+        "scores":[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      },
+      {
+        "name":"Betty",
+        "photo":"https://cdn-images-1.medium.com/max/1000/1*VRNy4ZAnCpk4HxSgG5jZtw.png",
+        "scores":[
+            3,
+            3,
+            4,
+            5,
+            1,
+            2,
+            3,
+            4,
+            3,
+            5
+          ]
+      },
+      {
+        "name":"Bob",
+        "photo":"https://www.thesprucepets.com/thmb/9xZ53v85TGH75XYBZs4Lw_Qwkhg=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/high-angle-view-of-chimpanzee-in-forest-769784687-5b1e76d63de4230037ce6f9d.jpg",
+        "scores":[
+            1,
+            2,
+            3,
+            4,
+            5,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+      }
+      
+]
+
+module.exports = friends
