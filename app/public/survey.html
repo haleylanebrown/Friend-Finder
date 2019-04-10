@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>FriendFinder</title>
+  <title>Friend Finder</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery.js"></script>
@@ -159,7 +159,7 @@
     <hr>
     <footer class="footer">
       <div class="container">
-        <p><a href="/api/friends">API Friends List</a> | <a href="#">GitHub Repo</a></p>
+        <p><a href="/api/friends">API Friends List</a> | <a href="https://github.com/haleylanebrown/Friend-Finder">GitHub Repo</a></p>
       </div>
     </footer>
 
@@ -227,7 +227,7 @@ if (validateForm()) {
 }
 $.post("/api/friends", newFriend, function(data){
   $("#match-name").text(data.matchName);
-  $("#match-img").attr("src", data.matchPhoto);
+  $("#match-img").attr("src", data.matchPhoto).css("width", "100%");
 
   $("#results-modal").modal("toggle");
 })
