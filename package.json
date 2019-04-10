@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/haleylanebrown/Friend-Finder#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize-heroku": "^2.0.0"
   },
   "devDependencies": {}
 }
