@@ -1,7 +1,7 @@
 var friends = [
     {
-        "name":"Sam",
-        "photo":"https://ichef.bbci.co.uk/news/660/cpsprodpb/DED5/production/_104154075_gettyimages-154948449.jpg",
+        "name":"Samuel",
+        "photo":"https://media.boingboing.net/wp-content/uploads/2018/09/Screen-Shot-2018-09-30-at-11.14.23-AM.png",
         "scores":[
             5,
             1,
@@ -17,7 +17,7 @@ var friends = [
       },
       {
         "name":"Betty",
-        "photo":"https://cdn-images-1.medium.com/max/1000/1*VRNy4ZAnCpk4HxSgG5jZtw.png",
+        "photo":"http://drkernisan.net/wp-content/uploads/bigstock-Beautiful-Portrait-Of-An-Elder-5884730-e1395250928579.jpg",
         "scores":[
             3,
             3,
@@ -33,7 +33,7 @@ var friends = [
       },
       {
         "name":"Bob",
-        "photo":"https://www.thesprucepets.com/thmb/9xZ53v85TGH75XYBZs4Lw_Qwkhg=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/high-angle-view-of-chimpanzee-in-forest-769784687-5b1e76d63de4230037ce6f9d.jpg",
+        "photo":"http://static1.squarespace.com/static/57c5bd1915d5db2f4f986d64/57e01c70b8a79b532adb1375/595ce545197aeab2430dee9b/1499260613958/grumpy+old+man.jpg?format=1500w",
         "scores":[
             1,
             2,
@@ -49,7 +49,7 @@ var friends = [
       },
       {
         "name":"Gertrude",
-        "photo":"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2561,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1494008886/articles/2017/04/03/the-internet-s-most-famous-pregnant-giraffe-still-hasn-t-given-birth/170403-jones-pregnant-giraffe-tease_alsbhr",
+        "photo":"https://i.imgflip.com/1cdhxh.jpg",
         "scores":[
             5,
             4,
@@ -65,7 +65,7 @@ var friends = [
       },
       {
         "name":"Mildred",
-        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pearl_Winter_White_Russian_Dwarf_Hamster_-_Front.jpg/1200px-Pearl_Winter_White_Russian_Dwarf_Hamster_-_Front.jpg",
+        "photo":"http://meganrage.com/wp-content/uploads/2018/12/oldbat-1080x675.jpg",
         "scores":[
             1,
             1,
@@ -81,7 +81,7 @@ var friends = [
       },
       {
         "name":"Arnold",
-        "photo":"https://static.boredpanda.com/blog/wp-content/uploads/2017/05/cute-baby-hippos-fb__700-png.jpg",
+        "photo":"https://www.reismandentalgroup.com/wp-content/uploads/2018/02/old-man-in-hat.jpg",
         "scores":[
             4,
             5,
@@ -97,7 +97,7 @@ var friends = [
       },
       {
         "name":"Edith",
-        "photo":"https://images.theconversation.com/files/123546/original/image-20160523-11012-ue2y70.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "photo":"https://vignette.wikia.nocookie.net/uncyclopedia/images/4/4d/Old_lady.jpg/revision/latest?cb=20051225025706",
         "scores":[
             2,
             1,
@@ -113,7 +113,7 @@ var friends = [
       },
       {
         "name":"Frank",
-        "photo":"https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_bats.jpg",
+        "photo":"https://ak2.picdn.net/shutterstock/videos/3078532/thumb/10.jpg",
         "scores":[
             2,
             1,
@@ -129,7 +129,7 @@ var friends = [
       },
       {
         "name":"Doris",
-        "photo":"https://cdn.britannica.com/s:300x500/70/161670-050-8E5BCC80.jpg",
+        "photo":"https://cdn.pixabay.com/photo/2015/07/14/19/01/old-lady-845225_960_720.jpg",
         "scores":[
             1,
             4,
@@ -145,7 +145,7 @@ var friends = [
       },
       {
         "name":"Norman",
-        "photo":"https://www.thoughtco.com/thmb/jOkozEy57aMiecuw3dPrPALFQPQ=/798x734/filters:no_upscale():max_bytes(150000):strip_icc()/norman-58b8aa3b5f9b58af5c51f5ee.jpg",
+        "photo":"http://orig13.deviantart.net/7337/f/2008/219/0/c/this_old_man____by_salemwitch.jpg",
         "scores":[
             3,
             4,
