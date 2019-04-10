@@ -12,10 +12,16 @@ Friend Finder is deployed to Heroku. Please check it out [here](https://www.goog
 To install the application follow the instructions below:
 
 git@github.com:haleylanebrown/Friend-Finder.git
+
 cd Friend-Finder
+
 npm install
+
 Running Locally
-To run the application locally and access it in your browser, first set the PORT environment variable to the value of your choice. An example is shown below.
+
+To run the application locally and access it in your browser, first set the PORT environment variable to the value of your choice.
+ 
+An example is shown below.
 
 `export PORT=3000`
 
